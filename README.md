@@ -12,9 +12,8 @@ Here i will share some of my outputs
 ![](op1.PNG)
 
 # Face Detection using video/web camera
-<div style="width:150px; height:100px">
-![](op3.png)
-</div>
+![](op3.png){: width=150 height=100}
+
 
 # Face & Smile Detection using local image file
 ![](op2.PNG)
