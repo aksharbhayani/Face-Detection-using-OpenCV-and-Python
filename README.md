@@ -12,7 +12,7 @@ Here i will share some of my outputs
 ![](op1.PNG)
 
 # Face Detection using video/web camera
-![](op3.png){: width=150 height=100}
+![](op3.png = 150 * 100)
 
 
 # Face & Smile Detection using local image file
