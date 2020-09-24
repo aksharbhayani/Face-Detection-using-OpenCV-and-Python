@@ -9,10 +9,10 @@ A simple project to detect Face, eyes and smile using Haar cascade classifier.
 
 Here i will share some of my outputs
 # Face Detection using local image file
-![](Face & Eyes_output.PNG)
+![](op1.png)
 
 # Face Detection using video/web camera
-
+![](op2.png)
 
 # Face & Smile Detection using local image file
-![](Face & Smile_output.PNG)
+![](op3.png)
