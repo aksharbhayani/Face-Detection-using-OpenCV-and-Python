@@ -13,7 +13,7 @@ Here i will share some of my outputs
 
 # Face Detection using video/web camera
 <div style="width:150px; height:100px">
-![Kitten](/media/2018/08/kitten.jpg)
+![](op3.png)
 </div>
 
 # Face & Smile Detection using local image file
